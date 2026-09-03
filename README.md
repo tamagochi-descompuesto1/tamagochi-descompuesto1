@@ -9,6 +9,7 @@ Fast learner, slow Red Bull drinker.
 * [nlp-examples](https://github.com/tamagochi-descompuesto1/nlp-examples): Assorted NLP experiments.
 * [NLP-NAS](https://github.com/tamagochi-descompuesto1/NLP-NAS): Neural Architecture Search meets NLP.
 * [nas4textgen](https://github.com/tamagochi-descompuesto1/nas4textgen): NAS for text generation *(my Master's thesis btw)*.
+* [snake-DQN](https://github.com/tamagochi-descompuesto1/snake-DQN): Teaching a snake to feed itself via Deep Q-Learning.
 
 ## 📫 Reach me
 * Email: israelsanchez0109@outlook.com or israelsanchezm@gmail.com
