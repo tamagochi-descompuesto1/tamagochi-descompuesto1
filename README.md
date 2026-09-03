@@ -1,7 +1,7 @@
 # Hello there 🌃, I'm Israel 
 Formerly known as [tamagochi-descompuesto](https://github.com/tamagochi-descompuesto). Same guy, new account, old repos still live over there.
 
-I like teaching computers to understand language (NLP), poking at AI for fun and writing code in whatever language the problem demands *(which 90% of the time turns out to be Python, funny how that keeps happening)*.
+I like teaching people and computers to understand language, poking at AI for fun and writing code in whatever language the problem demands *(which 90% of the time turns out to be Python, funny how that keeps happening)*.
 
 Fast learner, slow Red Bull drinker.
 
