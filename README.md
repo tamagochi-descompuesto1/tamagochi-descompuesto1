@@ -15,4 +15,4 @@ Fast learner, slow Red Bull drinker.
 * LinkedIn: [israel-sánchez-miranda](https://www.linkedin.com/in/israel-sánchez-miranda-269225229/)
 
 ## ⚡ Full disclosure
-No, I don't have 3 years of experience in your exact stack. What I do have is a laptop and questionable amounts of caffeine. Just give me a weekend to dig through the repos, bug a senior dev with questions, and reverse-engineer my way to be fully capable by Monday. Need something learned? Consider it in añready done.
+I may not have 3 years of experience in your exact stack. But what I do have is a laptop and questionable amounts of caffeine. Just give me a weekend to dig through the repos, bug a senior dev with questions, and reverse-engineer my way to be fully capable by Monday. Need something learned? Consider it in añready done.
