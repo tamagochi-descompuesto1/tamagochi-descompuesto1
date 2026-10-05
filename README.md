@@ -11,7 +11,7 @@ Fast learner, slow Red Bull drinker.
 * [nas4textgen](https://github.com/tamagochi-descompuesto1/nas4textgen): NAS for text generation *(my Master's thesis btw)*.
 * [snake-DQN](https://github.com/tamagochi-descompuesto1/snake-DQN): Teaching a snake to feed itself via Deep Q-Learning.
 * [Conway-GoL](https://github.com/tamagochi-descompuesto1/Conway-GoL): Conway's Game of Life with a little twist, because sometimes you just want to watch cells live and die.
-* Protozoan (WIP): A simulated ecosystem with microorganisms that battle for food and space. Just like real life.
+* [Protozoan (WIP)](https://github.com/tamagochi-descompuesto1/protozoan): A simulated ecosystem with microorganisms that battle for food and space. Just like real life.
 
 ## 📫 Reach me
 * Email: israelsanchez0109@outlook.com or israelsanchezm@gmail.com
